@@ -31,7 +31,6 @@
     "markdown-it": "^14.1.1",
     "mdast-util-to-string": "^4.0.0",
     "node-html-parser": "^7.1.0",
-    "outstatic": "^2.1.6",
     "reading-time": "^1.5.0",
     "rehype-katex": "^7.0.1",
     "remark-directive": "^4.0.0",
