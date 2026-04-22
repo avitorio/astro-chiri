@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config'
+import vercel from '@astrojs/vercel'
 import mdx from '@astrojs/mdx'
 import sitemap from '@astrojs/sitemap'
 import remarkMath from 'remark-math'
@@ -31,6 +32,7 @@ export default defineConfig({
     rehypePlugins: [rehypeKatex, rehypeCleanup, rehypeImageProcessor, rehypeCopyCode]
   },
   integrations: [mdx(), sitemap()],
+  adapter: vercel(),
   vite: {
     resolve: {
       alias: {
