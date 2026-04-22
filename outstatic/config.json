@@ -1,3 +1,5 @@
 {
-  "mdExtension": "md"
+  "mdExtension": "md",
+  "publicMediaPath": "./_assets/",
+  "repoMediaPath": "src/content/posts/_assets/"
 }
