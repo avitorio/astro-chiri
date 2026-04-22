@@ -1,6 +1,6 @@
 {
-  "commit": "e116bf89ad032b9ed30efe44376b3ef39d4b1256",
-  "generated": "2026-04-22T21:44:07.902Z",
+  "commit": "7a8b4d2f0a7b0147b01396548a523208a50dd7b0",
+  "generated": "2026-04-22T21:55:24.633Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,8 +20,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e116bf89ad032b9ed30efe44376b3ef39d4b1256",
-        "hash": "795101222",
+        "commit": "7a8b4d2f0a7b0147b01396548a523208a50dd7b0",
+        "hash": "2095189398",
         "path": "src/content/posts/the-tr-808-story.md"
       },
       "author": {

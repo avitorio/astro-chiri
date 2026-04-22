@@ -8,7 +8,7 @@ author:
 slug: "the-tr-808-story"
 ---
 
-![](/_assets/tr-808.jpg)
+![](/./_assets/tr-808.jpg)
 
 The Roland TR-808 Rhythm Composer, often simply called the "808," is one of the most influential electronic instruments ever created. Despite its initial commercial failure, this drum machine went on to shape entire genres of music and become a cultural icon. This is the story of how a machine designed to replace drummers ended up revolutionizing music production.
 
@@ -26,7 +26,7 @@ The development team faced several challenges:
 
 ## The "Failed" Launch
 
-When the TR-808 was released in 1980, it was met with **disappointing sales**. The machine cost $1,195 (approximately $4,000 in today's dollars) and was criticized for its "unrealistic" drum sounds. Professional studios preferred the more expensive Linn LM-1, which used actual drum samples.
+When the TR-808 was released in 1980, it was met with **disappointing sales**. The machine cost $1,195 (approximately $
 
 The 808's analog sounds were considered too electronic and artificial:
 
