@@ -7,8 +7,8 @@ export const prerender = true
 const collectionEntries = await getCollection('posts')
 
 // Map the array of content collection entries to create an object.
-// Converts [{ id: 'post.md', data: { title: 'Example', pubDate: Date } }]
-// to { 'post.md': { title: 'Example', pubDate: Date } }
+// Converts [{ id: 'post.md', data: { title: 'Example', publishedAt: Date } }]
+// to { 'post.md': { title: 'Example', publishedAt: Date } }
 const pages = Object.fromEntries(
   collectionEntries.map((entry: CollectionEntry<'posts'>) => [entry.id.replace(/\.(md|mdx)$/, ''), entry.data])
 )

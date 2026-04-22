@@ -10,8 +10,14 @@ const posts = defineCollection({
     z.object({
       title: z.string(),
       // Transform string to Date object
-      pubDate: z.coerce.date(),
-      image: z.string().optional()
+      publishedAt: z.coerce.date(),
+      image: z.string().optional(),
+      status: z.enum(['published', 'draft']),
+      author: z.object({
+        name: z.string(),
+        picture: z.string()
+      }).optional(),
+      slug: z.string().optional()
     })
 })
 

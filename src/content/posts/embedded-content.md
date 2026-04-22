@@ -1,6 +1,7 @@
 ---
 title: 'Embedded Content'
-pubDate: '2025-06-06'
+publishedAt: '2025-06-06'
+status: 'published'
 ---
 
 Use these directives to embed media:

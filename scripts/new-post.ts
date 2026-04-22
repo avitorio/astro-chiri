@@ -36,7 +36,7 @@ mkdirSync(dirname(fullPath), { recursive: true })
 // Generate frontmatter with current date
 const content: string = `---
 title: ${displayTitle}
-pubDate: '${new Date().toISOString().split('T')[0]}'
+publishedAt: '${new Date().toISOString().split('T')[0]}'
 ---
 
 `
