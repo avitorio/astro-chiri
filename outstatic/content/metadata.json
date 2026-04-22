@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-04-22T20:40:16.752Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "362998629",
+        "path": "src/content/about/about.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-04-22T20:22:05.045Z",
+      "slug": "about",
+      "status": "draft",
+      "title": "About"
+    }
+  ]
+}

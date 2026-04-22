@@ -1,0 +1,10 @@
+[
+  {
+    "title": "About",
+    "slug": "about",
+    "directory": "src/content/about",
+    "path": "src/content/about/about.md",
+    "publishedAt": "2026-04-22T20:22:05.045Z",
+    "status": "draft"
+  }
+]
