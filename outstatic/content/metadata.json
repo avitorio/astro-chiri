@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-04-22T20:40:16.752Z",
+  "commit": "e116bf89ad032b9ed30efe44376b3ef39d4b1256",
+  "generated": "2026-04-22T21:44:07.902Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "about",
       "status": "draft",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "e116bf89ad032b9ed30efe44376b3ef39d4b1256",
+        "hash": "795101222",
+        "path": "src/content/posts/the-tr-808-story.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-10T00:00:00.000Z",
+      "slug": "the-tr-808-story",
+      "status": "published",
+      "title": "The TR-808 Story"
     }
   ]
 }
