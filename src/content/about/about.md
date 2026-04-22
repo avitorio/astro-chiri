@@ -1,7 +1,7 @@
 ---
 title: "About"
 publishedAt: "2026-04-22T20:22:05.045Z"
-status: "draft"
+status: "published"
 author:
   name: "Andre Vitorio"
   picture: "https://avatars.githubusercontent.com/u/1417109?v=4"

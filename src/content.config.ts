@@ -25,7 +25,18 @@ const about = defineCollection({
   // Load Markdown files in the `src/content/about/` directory.
   loader: glob({ base: './src/content/about', pattern: '**/*.md' }),
   // Type-check frontmatter using a schema
-  schema: z.object({})
+  schema: z.object({
+    title: z.string(),
+    // Transform string to Date object
+    publishedAt: z.coerce.date(),
+    image: z.string().optional(),
+    status: z.enum(['published', 'draft']),
+    author: z.object({
+      name: z.string(),
+      picture: z.string()
+    }).optional(),
+    slug: z.string().optional()
+  })
 })
 
 export const collections = { posts, about }
