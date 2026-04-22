@@ -23,40 +23,53 @@ if (!match) {
 }
 const linkCardEnabled: boolean = match[1] === 'true'
 
-// Helper to comment/uncomment adapter lines in astro.config.ts
-function toggleAstroAdapter(comment: boolean) {
+function setLineCommented(lines: string[], index: number, comment: boolean) {
+  if (index === -1) return
+  const line = lines[index]
+  const trimmed = line.trim()
+  if (comment) {
+    if (!trimmed.startsWith('//')) {
+      const indent = line.match(/^\s*/)?.[0] ?? ''
+      lines[index] = indent + '// ' + trimmed
+    }
+  } else {
+    if (trimmed.startsWith('//')) {
+      const indent = line.match(/^\s*/)?.[0] ?? ''
+      const rest = trimmed.replace(/^\/\/\s?/, '')
+      lines[index] = indent + rest
+    }
+  }
+}
+
+// Comment/uncomment Vercel or Netlify adapter in astro.config.ts (static output + prerender: false on API routes)
+function toggleAstroAdapter(comment: boolean, mustExist: boolean) {
   const astroConfig = fs.readFileSync(astroConfigPath, 'utf-8').split('\n')
 
-  // Find the import line for netlify adapter (including commented lines)
-  const importIndex = astroConfig.findIndex((line) => line.trim().includes('import') && line.includes('netlify'))
+  const importIndex = astroConfig.findIndex(
+    (line) =>
+      line.trim().includes('import') &&
+      (line.includes('netlify') || line.includes('vercel')) &&
+      line.includes('@astrojs/')
+  )
 
-  // Find the adapter line (including commented lines)
-  const adapterIndex = astroConfig.findIndex((line) => line.trim().includes('adapter:') && line.includes('netlify'))
+  const adapterIndex = astroConfig.findIndex(
+    (line) =>
+      line.trim().includes('adapter:') &&
+      (line.includes('netlify') || line.includes('vercel'))
+  )
 
   if (importIndex === -1 || adapterIndex === -1) {
-    console.error('Could not find netlify adapter import or configuration')
+    if (mustExist) {
+      console.error(
+        'Could not find SSR adapter lines in astro.config.ts (commented import from @astrojs/vercel or @astrojs/netlify, and adapter line). See README deploy section, or set linkCard: false in src/config.ts.'
+      )
+      process.exit(1)
+    }
     return
   }
 
-  if (comment) {
-    // Comment out the import line if not already commented
-    if (!astroConfig[importIndex].trim().startsWith('//')) {
-      astroConfig[importIndex] = '// ' + astroConfig[importIndex]
-    }
-    // Comment out the adapter line if not already commented
-    if (!astroConfig[adapterIndex].trim().startsWith('//')) {
-      astroConfig[adapterIndex] = '// ' + astroConfig[adapterIndex]
-    }
-  } else {
-    // Uncomment the import line if commented
-    if (astroConfig[importIndex].trim().startsWith('//')) {
-      astroConfig[importIndex] = astroConfig[importIndex].replace(/^\/\/\s?/, '')
-    }
-    // Uncomment the adapter line if commented
-    if (astroConfig[adapterIndex].trim().startsWith('//')) {
-      astroConfig[adapterIndex] = astroConfig[adapterIndex].replace(/^\/\/\s?/, '')
-    }
-  }
+  setLineCommented(astroConfig, importIndex, comment)
+  setLineCommented(astroConfig, adapterIndex, comment)
 
   fs.writeFileSync(astroConfigPath, astroConfig.join('\n'), 'utf-8')
 }
@@ -67,7 +80,7 @@ if (!linkCardEnabled) {
     fs.renameSync(proxyPath, backupPath)
     console.log('🟡 proxy.ts disabled')
   }
-  toggleAstroAdapter(true)
+  toggleAstroAdapter(true, false)
   console.log('🟡 adapter config disabled')
 } else {
   // If linkCard is enabled, restore proxy.ts and uncomment adapter
@@ -75,6 +88,6 @@ if (!linkCardEnabled) {
     fs.renameSync(backupPath, proxyPath)
     console.log('🟢 proxy.ts enabled')
   }
-  toggleAstroAdapter(false)
+  toggleAstroAdapter(false, true)
   console.log('🟢 adapter config enabled')
 }

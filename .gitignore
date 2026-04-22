@@ -24,7 +24,7 @@ pnpm-debug.log*
 # IDE settings
 .idea/
 
-# Netlify build output
-.netlify/
+# Vercel build output
+.vercel/
 
 *.tsbuildinfo
