@@ -5,7 +5,6 @@ import { render } from 'astro:content'
 const aboutEntry = await getEntry('about', 'about')
 // Check if there is actual content (excluding comments)
 const isPublished = aboutEntry?.data.status === 'published'
-console.log({aboutEntry})
 const { Content } = isPublished && aboutEntry ? await render(aboutEntry) : { Content: null }
 ---
 
