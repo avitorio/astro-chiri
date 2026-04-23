@@ -1,7 +1,7 @@
 ---
 title: "Using MDX 2"
 publishedAt: "2026-04-23T15:43:41.156Z"
-status: "draft"
+status: "published"
 author:
   name: "Andre Vitorio"
   picture: "https://avatars.githubusercontent.com/u/1417109?v=4"

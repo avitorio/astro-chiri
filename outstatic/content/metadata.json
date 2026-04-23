@@ -1,6 +1,6 @@
 {
-  "commit": "dea0e9a0a3d3a5120755c995f9efc529e56ceecc",
-  "generated": "2026-04-23T16:02:18.950Z",
+  "commit": "e14b3b2a3dce509d3905854806a387f404b2c909",
+  "generated": "2026-04-23T16:02:26.193Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,8 +36,8 @@
     },
     {
       "__outstatic": {
-        "commit": "dea0e9a0a3d3a5120755c995f9efc529e56ceecc",
-        "hash": "4144935420",
+        "commit": "e14b3b2a3dce509d3905854806a387f404b2c909",
+        "hash": "2637527136",
         "path": "src/content/posts/using-mdx-2.md"
       },
       "author": {
@@ -47,7 +47,7 @@
       "collection": "posts",
       "publishedAt": "2026-04-23T15:43:41.156Z",
       "slug": "using-mdx-2",
-      "status": "draft",
+      "status": "published",
       "title": "Using MDX 2"
     }
   ]
