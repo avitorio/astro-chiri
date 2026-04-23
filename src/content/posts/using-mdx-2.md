@@ -8,7 +8,9 @@ author:
 slug: "using-mdx-2"
 ---
 
-import Callout from '@/components/examples/Callout.astro' import CounterButton from '@/components/examples/CounterButton.astro' import Tag from '@/components/examples/Tag.astro'
+import Callout from '@/components/examples/Callout.astro'\
+import CounterButton from '@/components/examples/CounterButton.astro'\
+import Tag from '@/components/examples/Tag.astro'
 
 MDX combines Markdown with embedded JavaScript and JSX, making it easy to build interactive content. Below are some examples.
 
