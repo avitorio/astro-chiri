@@ -1,0 +1,15 @@
+{
+  "media": [
+    {
+      "categories": [
+        "image"
+      ],
+      "input": "src/content/posts/_assets",
+      "label": "Images",
+      "name": "images",
+      "output": "./_assets"
+    }
+  ],
+  "publicMediaPath": "./_assets/",
+  "repoMediaPath": "src/content/posts/_assets/"
+}
