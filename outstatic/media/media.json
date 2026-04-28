@@ -1,0 +1,102 @@
+{
+  "commit": "",
+  "generated": "2026-04-28T20:44:22.240Z",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/copy-code.png"
+      },
+      "alt": "",
+      "filename": "copy-code.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/date-on-left.png"
+      },
+      "alt": "",
+      "filename": "date-on-left.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/dotted-divider.png"
+      },
+      "alt": "",
+      "filename": "dotted-divider.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/hikari.jpg"
+      },
+      "alt": "",
+      "filename": "hikari.jpg",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/reading-time.png"
+      },
+      "alt": "",
+      "filename": "reading-time.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/theme-toggle.png"
+      },
+      "alt": "",
+      "filename": "theme-toggle.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/toc.png"
+      },
+      "alt": "",
+      "filename": "toc.png",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/content/posts/_assets/tr-808.jpg"
+      },
+      "alt": "",
+      "filename": "tr-808.jpg",
+      "publishedAt": "2026-04-28T20:44:21.639Z",
+      "source": "images",
+      "type": "image"
+    }
+  ]
+}
