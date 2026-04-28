@@ -1,6 +1,6 @@
 {
-  "commit": "d2192b76ac9838a4849b36bae4aa2c47f6550b5c",
-  "generated": "2026-04-28T21:28:08.848Z",
+  "commit": "aeafe65262926253564fdfd332dc3cfc852f8534",
+  "generated": "2026-04-28T21:30:29.295Z",
   "metadata": [
     {
       "__outstatic": {
@@ -88,8 +88,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d2192b76ac9838a4849b36bae4aa2c47f6550b5c",
-        "hash": "1834891031",
+        "commit": "aeafe65262926253564fdfd332dc3cfc852f8534",
+        "hash": "2889925074",
         "path": "src/content/posts/my-things.mdx"
       },
       "author": {
@@ -99,7 +99,7 @@
       "collection": "posts",
       "publishedAt": "2026-04-28T21:09:34.533Z",
       "slug": "my-things",
-      "status": "draft",
+      "status": "published",
       "title": "My things"
     }
   ]
