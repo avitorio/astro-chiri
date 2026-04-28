@@ -1,0 +1,90 @@
+{
+  "commit": "",
+  "generated": "Tue, 28 Apr 2026 20:53:04 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1393687764",
+        "path": "src/content/posts/_draft-example.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-07-09",
+      "slug": "_draft-example",
+      "status": "published",
+      "title": "Draft Example"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1903193438",
+        "path": "src/content/posts/KaTeX-example.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-19",
+      "slug": "KaTeX-example",
+      "status": "published",
+      "title": "KaTeX Examples"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2205603858",
+        "path": "src/content/posts/embedded-content.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-06-06",
+      "slug": "embedded-content",
+      "status": "published",
+      "title": "Embedded Content"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3056813449",
+        "path": "src/content/posts/theme-guide.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-07-10",
+      "slug": "theme-guide",
+      "status": "published",
+      "title": "Theme Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "314409944",
+        "path": "src/content/posts/the-tr-808-story.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-10",
+      "slug": "the-tr-808-story",
+      "status": "published",
+      "title": "The TR-808 Story"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2702189162",
+        "path": "src/content/posts/using-mdx.mdx"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-12",
+      "slug": "using-mdxx",
+      "status": "published",
+      "title": "Using MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1798438636",
+        "path": "src/content/posts/markdown-style-guide.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-06-28",
+      "slug": "markdown-style-guide",
+      "status": "published",
+      "title": "Markdown Style Guide"
+    }
+  ]
+}
