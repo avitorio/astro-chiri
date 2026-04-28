@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 28 Apr 2026 20:43:30 GMT",
+  "commit": "d0832982e332a7be63240e79e8493c7f21d0de46",
+  "generated": "2026-04-28T20:44:58.570Z",
   "metadata": [
     {
       "__outstatic": {
@@ -85,6 +85,22 @@
       "slug": "using-mdxx",
       "status": "published",
       "title": "Using MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "d0832982e332a7be63240e79e8493c7f21d0de46",
+        "hash": "1609153242",
+        "path": "src/content/about/about.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-04-22T20:22:05.045Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
