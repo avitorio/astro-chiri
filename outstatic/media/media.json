@@ -1,7 +1,19 @@
 {
-  "commit": "7b0495dedb437ff6538d5f9af8d9369234854b38",
-  "generated": "2026-04-29T20:00:40.554Z",
+  "commit": "7859d838876f27e7cb6ebc8bd0805bcd5660e221",
+  "generated": "2026-04-29T20:01:07.025Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "7859d838876f27e7cb6ebc8bd0805bcd5660e221",
+        "hash": "4200495066",
+        "path": "src/content/posts/_assets/ai-list-gradient-bg-c5NT.svg"
+      },
+      "alt": "",
+      "filename": "ai-list-gradient-bg-c5NT.svg",
+      "publishedAt": "2026-04-29T20:01:07.025Z",
+      "source": "images",
+      "type": "image"
+    },
     {
       "__outstatic": {
         "commit": "",
