@@ -9,6 +9,15 @@
       "label": "Images",
       "name": "images",
       "output": "./_assets"
+    },
+    {
+      "categories": [
+        "video"
+      ],
+      "input": "src/content/posts/_assets",
+      "label": "Video",
+      "name": "video",
+      "output": "./_assets"
     }
   ],
   "publicMediaPath": "./_assets/",
