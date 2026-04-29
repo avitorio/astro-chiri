@@ -18,6 +18,15 @@
       "label": "Video",
       "name": "video",
       "output": "./_assets"
+    },
+    {
+      "categories": [
+        "document"
+      ],
+      "input": "src/content/posts/_assets",
+      "label": "Documents",
+      "name": "documents",
+      "output": "./_assets"
     }
   ],
   "publicMediaPath": "./_assets/",
