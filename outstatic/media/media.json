@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-04-29T05:20:45.047Z",
+  "commit": "f3a70408653d5debcb59a7c3cc969262c3245711",
+  "generated": "2026-04-29T05:21:12.973Z",
   "media": [
     {
       "__outstatic": {
@@ -13,6 +13,18 @@
       "publishedAt": "2026-04-29T05:20:44.485Z",
       "source": "images",
       "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "f3a70408653d5debcb59a7c3cc969262c3245711",
+        "hash": "2318216994",
+        "path": "src/content/posts/_assets/latest-5-1776291949347-g0MT.mp4"
+      },
+      "alt": "",
+      "filename": "latest-5-1776291949347-g0MT.mp4",
+      "publishedAt": "2026-04-29T05:21:12.973Z",
+      "source": "video",
+      "type": "video"
     },
     {
       "__outstatic": {
