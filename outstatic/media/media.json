@@ -1,6 +1,6 @@
 {
-  "commit": "d2192b76ac9838a4849b36bae4aa2c47f6550b5c",
-  "generated": "2026-04-28T21:28:08.848Z",
+  "commit": "88d10e32e7b341e6b650cbee853f5c272856d100",
+  "generated": "2026-04-29T05:06:07.659Z",
   "media": [
     {
       "__outstatic": {
@@ -11,54 +11,6 @@
       "alt": "",
       "filename": "5x5font-E5Mz.webp",
       "publishedAt": "2026-04-28T21:28:08.846Z",
-      "source": "images",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/copy-code.png"
-      },
-      "alt": "",
-      "filename": "copy-code.png",
-      "publishedAt": "2026-04-28T21:27:34.721Z",
-      "source": "images",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/date-on-left.png"
-      },
-      "alt": "",
-      "filename": "date-on-left.png",
-      "publishedAt": "2026-04-28T21:27:34.721Z",
-      "source": "images",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/dotted-divider.png"
-      },
-      "alt": "",
-      "filename": "dotted-divider.png",
-      "publishedAt": "2026-04-28T21:27:34.721Z",
-      "source": "images",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/hikari.jpg"
-      },
-      "alt": "",
-      "filename": "hikari.jpg",
-      "publishedAt": "2026-04-28T21:27:34.721Z",
       "source": "images",
       "type": "image"
     },
