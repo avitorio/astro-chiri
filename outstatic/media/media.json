@@ -1,43 +1,7 @@
 {
-  "commit": "",
-  "generated": "2026-04-29T19:48:04.052Z",
+  "commit": "7b0495dedb437ff6538d5f9af8d9369234854b38",
+  "generated": "2026-04-29T20:00:40.554Z",
   "media": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "135441900",
-        "path": "src/content/posts/_assets/5x5font-E5Mz.webp"
-      },
-      "alt": "",
-      "filename": "5x5font-E5Mz.webp",
-      "publishedAt": "2026-04-29T05:22:04.752Z",
-      "source": "images",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "733661436",
-        "path": "src/content/posts/_assets/extrato-01-02-2026-a-28-02-2026-pdf-EyNj.pdf"
-      },
-      "alt": "",
-      "filename": "extrato-01-02-2026-a-28-02-2026-pdf-EyNj.pdf",
-      "publishedAt": "2026-04-29T05:22:56.907Z",
-      "source": "documents",
-      "type": "document"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "2993168528",
-        "path": "src/content/posts/_assets/latest-5-1776291949347-g0MT.mp4"
-      },
-      "alt": "",
-      "filename": "latest-5-1776291949347-g0MT.mp4",
-      "publishedAt": "2026-04-29T05:22:04.752Z",
-      "source": "video",
-      "type": "video"
-    },
     {
       "__outstatic": {
         "commit": "",
