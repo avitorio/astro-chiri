@@ -1,11 +1,11 @@
 {
-  "commit": "f435e267250ad263beede208999834d099cfb9ec",
-  "generated": "2026-04-29T05:22:56.907Z",
+  "commit": "",
+  "generated": "2026-04-29T17:53:39.905Z",
   "media": [
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "135441900",
         "path": "src/content/posts/_assets/5x5font-E5Mz.webp"
       },
       "alt": "",
@@ -16,8 +16,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f435e267250ad263beede208999834d099cfb9ec",
-        "hash": "2279094188",
+        "commit": "",
+        "hash": "733661436",
         "path": "src/content/posts/_assets/extrato-01-02-2026-a-28-02-2026-pdf-EyNj.pdf"
       },
       "alt": "",
@@ -29,7 +29,7 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "2993168528",
         "path": "src/content/posts/_assets/latest-5-1776291949347-g0MT.mp4"
       },
       "alt": "",
@@ -41,7 +41,7 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "1897773269",
         "path": "src/content/posts/_assets/reading-time.png"
       },
       "alt": "",
@@ -53,7 +53,7 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "1963475076",
         "path": "src/content/posts/_assets/theme-toggle.png"
       },
       "alt": "",
@@ -65,7 +65,7 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "1840763720",
         "path": "src/content/posts/_assets/toc.png"
       },
       "alt": "",
@@ -77,7 +77,7 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
+        "hash": "2329778250",
         "path": "src/content/posts/_assets/tr-808.jpg"
       },
       "alt": "",
