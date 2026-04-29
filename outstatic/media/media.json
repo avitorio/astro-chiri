@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-04-29T05:22:05.317Z",
+  "commit": "f435e267250ad263beede208999834d099cfb9ec",
+  "generated": "2026-04-29T05:22:56.907Z",
   "media": [
     {
       "__outstatic": {
@@ -13,6 +13,18 @@
       "publishedAt": "2026-04-29T05:22:04.752Z",
       "source": "images",
       "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "f435e267250ad263beede208999834d099cfb9ec",
+        "hash": "2279094188",
+        "path": "src/content/posts/_assets/extrato-01-02-2026-a-28-02-2026-pdf-EyNj.pdf"
+      },
+      "alt": "",
+      "filename": "extrato-01-02-2026-a-28-02-2026-pdf-EyNj.pdf",
+      "publishedAt": "2026-04-29T05:22:56.907Z",
+      "source": "documents",
+      "type": "document"
     },
     {
       "__outstatic": {
