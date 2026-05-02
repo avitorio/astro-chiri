@@ -1,6 +1,6 @@
 {
-  "commit": "aeafe65262926253564fdfd332dc3cfc852f8534",
-  "generated": "2026-04-28T21:30:29.295Z",
+  "commit": "da4cf9afe8e19a01089d647b79eeab125e3508da",
+  "generated": "2026-05-02T15:50:45.691Z",
   "metadata": [
     {
       "__outstatic": {
@@ -101,6 +101,22 @@
       "slug": "my-things",
       "status": "published",
       "title": "My things"
+    },
+    {
+      "__outstatic": {
+        "commit": "da4cf9afe8e19a01089d647b79eeab125e3508da",
+        "hash": "187961861",
+        "path": "src/content/posts/using-mdx.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-12T00:00:00.000Z",
+      "slug": "using-mdx",
+      "status": "published",
+      "title": "Using MDX"
     }
   ]
 }
