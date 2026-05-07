@@ -1,6 +1,6 @@
 {
-  "commit": "1206e8948e7e877003ff0a667897cfb1d1a9d102",
-  "generated": "2026-05-07T23:45:56.446Z",
+  "commit": "de2bed24382ff2251ebd457ce3365f6b84d34079",
+  "generated": "2026-05-07T23:47:02.396Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,8 +104,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1206e8948e7e877003ff0a667897cfb1d1a9d102",
-        "hash": "755669704",
+        "commit": "de2bed24382ff2251ebd457ce3365f6b84d34079",
+        "hash": "2803335753",
         "path": "src/content/posts/using-mdx.mdx"
       },
       "author": {
