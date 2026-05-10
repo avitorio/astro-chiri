@@ -1,6 +1,6 @@
 {
-  "commit": "8178963134e8dfd1689ebea50edf5d1d22fe5811",
-  "generated": "2026-05-09T15:37:14.365Z",
+  "commit": "410911397f73d0a8d17f19e659374773415a3bca",
+  "generated": "2026-05-10T23:37:07.958Z",
   "metadata": [
     {
       "__outstatic": {
@@ -117,6 +117,22 @@
       "slug": "using-mdx",
       "status": "published",
       "title": "Using MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "410911397f73d0a8d17f19e659374773415a3bca",
+        "hash": "1298306772",
+        "path": "outstatic/content/_singletons/my-new.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-05-10T23:18:49.303Z",
+      "slug": "my-new",
+      "status": "draft",
+      "title": "My new"
     }
   ]
 }
