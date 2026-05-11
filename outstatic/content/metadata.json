@@ -1,6 +1,6 @@
 {
-  "commit": "531d75716827a366fd7adb0a15571a27abcf7fb3",
-  "generated": "2026-05-11T11:21:54.188Z",
+  "commit": "87452dc59317057aa8497894c01f5f252918d88c",
+  "generated": "2026-05-11T11:24:22.839Z",
   "metadata": [
     {
       "__outstatic": {
@@ -133,6 +133,22 @@
       "slug": "my-new",
       "status": "draft",
       "title": "My new"
+    },
+    {
+      "__outstatic": {
+        "commit": "87452dc59317057aa8497894c01f5f252918d88c",
+        "hash": "1054556624",
+        "path": "src/content/posts/hey.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-05-11T11:06:15.721Z",
+      "slug": "hey",
+      "status": "draft",
+      "title": "Hey"
     }
   ]
 }
