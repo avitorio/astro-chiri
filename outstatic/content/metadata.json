@@ -1,6 +1,6 @@
 {
-  "commit": "410911397f73d0a8d17f19e659374773415a3bca",
-  "generated": "2026-05-10T23:37:07.958Z",
+  "commit": "531d75716827a366fd7adb0a15571a27abcf7fb3",
+  "generated": "2026-05-11T11:21:54.188Z",
   "metadata": [
     {
       "__outstatic": {
@@ -120,8 +120,8 @@
     },
     {
       "__outstatic": {
-        "commit": "410911397f73d0a8d17f19e659374773415a3bca",
-        "hash": "1298306772",
+        "commit": "531d75716827a366fd7adb0a15571a27abcf7fb3",
+        "hash": "3642340046",
         "path": "outstatic/content/_singletons/my-new.md"
       },
       "author": {
