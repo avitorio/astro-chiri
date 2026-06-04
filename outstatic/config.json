@@ -1,5 +1,16 @@
 {
   "mdExtension": "md",
-  "publicMediaPath": "./_assets/",
-  "repoMediaPath": "src/content/posts/_assets/"
+  "media": [
+    {
+      "categories": [
+        "image"
+      ],
+      "input": "public/og",
+      "label": "Images2",
+      "name": "images2",
+      "output": "/images"
+    }
+  ],
+  "publicMediaPath": "images/",
+  "repoMediaPath": "public/og/"
 }
