@@ -1,93 +1,41 @@
 {
   "commit": "",
-  "generated": "Wed, 22 Apr 2026 21:54:51 GMT",
+  "generated": "2026-06-04T15:10:47.696Z",
   "media": [
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/copy-code.png"
+        "hash": "3968937702",
+        "path": "public/og/chiri-og.png"
       },
       "alt": "",
-      "filename": "copy-code.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
+      "filename": "chiri-og.png",
+      "publishedAt": "2026-06-04T15:10:46.750Z",
+      "source": "images2",
       "type": "image"
     },
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/date-on-left.png"
+        "hash": "885200598",
+        "path": "public/og/og-bg.png"
       },
       "alt": "",
-      "filename": "date-on-left.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
+      "filename": "og-bg.png",
+      "publishedAt": "2026-06-04T15:10:46.750Z",
+      "source": "images2",
       "type": "image"
     },
     {
       "__outstatic": {
         "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/dotted-divider.png"
+        "hash": "2907944218",
+        "path": "public/og/og-logo.png"
       },
       "alt": "",
-      "filename": "dotted-divider.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/hikari.jpg"
-      },
-      "alt": "",
-      "filename": "hikari.jpg",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/reading-time.png"
-      },
-      "alt": "",
-      "filename": "reading-time.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/theme-toggle.png"
-      },
-      "alt": "",
-      "filename": "theme-toggle.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/toc.png"
-      },
-      "alt": "",
-      "filename": "toc.png",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "src/content/posts/_assets/tr-808.jpg"
-      },
-      "alt": "",
-      "filename": "tr-808.jpg",
-      "publishedAt": "2026-04-22T21:54:50.222Z",
+      "filename": "og-logo.png",
+      "publishedAt": "2026-06-04T15:10:46.750Z",
+      "source": "images2",
       "type": "image"
     }
   ]
