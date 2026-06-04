@@ -9,6 +9,15 @@
       "label": "Images2",
       "name": "images2",
       "output": "/images"
+    },
+    {
+      "categories": [
+        "video"
+      ],
+      "input": "public",
+      "label": "asdasd",
+      "name": "asdasd",
+      "output": "/asdad"
     }
   ],
   "publicMediaPath": "images/",
