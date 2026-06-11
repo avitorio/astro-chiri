@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "astro-chiri-flax",
+      "display_name": "Astro Chiri Flax",
+      "website_url": "https://astro-chiri-flax.vercel.app",
+      "root_path": ""
+    }
+  ]
+}
