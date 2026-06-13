@@ -1,6 +1,6 @@
 {
-  "commit": "6341e831cd9292ce1e0c37343990f43a29e22fa9",
-  "generated": "2026-06-13T16:40:54.498Z",
+  "commit": "78bf058c652167cb2c5eb85be9ea4957036ce146",
+  "generated": "2026-06-13T18:06:32.779Z",
   "metadata": [
     {
       "__outstatic": {
@@ -49,6 +49,22 @@
       "slug": "markdown-style-guide",
       "status": "published",
       "title": "Markdown Style Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "78bf058c652167cb2c5eb85be9ea4957036ce146",
+        "hash": "521270988",
+        "path": "src/content/posts/my-new.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-06-13T17:48:23.879Z",
+      "slug": "my-new",
+      "status": "draft",
+      "title": "My new"
     }
   ]
 }
