@@ -1,10 +1,14 @@
 ---
-title: 'Markdown Style Guide'
-publishedAt: '2025-06-28'
-status: 'published'
+title: Markdown Style Guide
+publishedAt: 2025-06-28T00:00:00.000Z
+status: published
+author:
+  name: Andre Vitorio
+  picture: https://avatars.githubusercontent.com/u/1417109?v=4
+slug: markdown-style-guide
 ---
 
-This theme does not define more levels of headlines. If needed, you can define them in `src/styles/post.css`.
+This theme does not define more levels of headlines. If needed, you can define them in `src/styles/post.css`
 
 ---
 
@@ -12,14 +16,13 @@ This theme does not define more levels of headlines. If needed, you can define t
 
 Here's a practical example of a paragraph in Markdown. This text demonstrates how content flows naturally in a blog post.
 
-You can use various formatting options like **bold**, _italic_, ~~strikethrough~~, and `code` within your paragraphs.
+You can use various formatting options like **bold**, *italic*, ~~strikethrough~~, and `code` within your paragraphs.
 
 ## Blockquotes
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+> Don't communicate by sharing memory, share memory by communicating.&lt;br&gt; — &lt;cite&gt;Rob Pike\[^1\]&lt;/cite&gt;
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+\[^1\]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ### Ordered List
 
@@ -35,9 +38,9 @@ You can use various formatting options like **bold**, _italic_, ~~strikethrough~
 
 ## Task List
 
-- [ ] First item
-- [ ] Second item
-- [x] Third item
+- \[ \] First item
+- \[ \] Second item
+- \[x\] Third item
 
 ## Image
 
@@ -47,10 +50,10 @@ To hide the caption, start it with an underscore `_` or leave the alt text empty
 
 ## Tables
 
-| Style    | Weight   | Other  |
-| -------- | -------- | ------ |
-| Normal   | Regular  | Text   |
-| _Italic_ | **Bold** | `Code` |
+| Style | Weight | Other |
+| --- | --- | --- |
+| Normal | Regular | Text |
+| *Italic* | **Bold** | `Code` |
 
 ## Code Blocks
 
@@ -75,14 +78,14 @@ const Button = ({ text, onClick }) => {
 
 ## Other Elements — sub, sup, abbr, kbd, mark
 
-H<sub>2</sub>O
+H&lt;sub&gt;2&lt;/sub&gt;O
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;
 
 <abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
 
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
+Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.
 
 ---
