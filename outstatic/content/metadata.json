@@ -1,6 +1,6 @@
 {
-  "commit": "78bf058c652167cb2c5eb85be9ea4957036ce146",
-  "generated": "2026-06-13T18:06:32.779Z",
+  "commit": "f7d2b76c689ba4ce83d98353a7ca20dab6377249",
+  "generated": "2026-06-15T19:05:17.384Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,54 +17,6 @@
       "slug": "about",
       "status": "draft",
       "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "7a8b4d2f0a7b0147b01396548a523208a50dd7b0",
-        "hash": "2095189398",
-        "path": "src/content/posts/the-tr-808-story.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-05-10T00:00:00.000Z",
-      "slug": "the-tr-808-story",
-      "status": "published",
-      "title": "The TR-808 Story"
-    },
-    {
-      "__outstatic": {
-        "commit": "6341e831cd9292ce1e0c37343990f43a29e22fa9",
-        "hash": "1160951785",
-        "path": "src/content/posts/markdown-style-guide.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-06-28T00:00:00.000Z",
-      "slug": "markdown-style-guide",
-      "status": "published",
-      "title": "Markdown Style Guide"
-    },
-    {
-      "__outstatic": {
-        "commit": "78bf058c652167cb2c5eb85be9ea4957036ce146",
-        "hash": "521270988",
-        "path": "src/content/posts/my-new.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-06-13T17:48:23.879Z",
-      "slug": "my-new",
-      "status": "draft",
-      "title": "My new"
     }
   ]
 }
