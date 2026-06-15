@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Mon, 15 Jun 2026 20:01:29 GMT",
+  "commit": "5db59cda63b6ddf2069c9d74eeec6793c78e1f1e",
+  "generated": "2026-06-15T20:02:03.274Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,22 +17,6 @@
       "slug": "my-new",
       "status": "draft",
       "title": "My new"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "1054556624",
-        "path": "src/content/posts/hey.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-05-11T11:06:15.721Z",
-      "slug": "hey",
-      "status": "draft",
-      "title": "Hey"
     },
     {
       "__outstatic": {
@@ -137,6 +121,22 @@
       "slug": "my-things",
       "status": "published",
       "title": "My things"
+    },
+    {
+      "__outstatic": {
+        "commit": "5db59cda63b6ddf2069c9d74eeec6793c78e1f1e",
+        "hash": "168821735",
+        "path": "src/content/posts/hey.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-05-11T11:06:15.721Z",
+      "slug": "hey",
+      "status": "draft",
+      "title": "Hey"
     }
   ]
 }
