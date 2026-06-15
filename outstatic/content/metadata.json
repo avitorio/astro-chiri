@@ -1,123 +1,7 @@
 {
-  "commit": "87452dc59317057aa8497894c01f5f252918d88c",
-  "generated": "2026-05-11T11:24:22.839Z",
+  "commit": "513e724e4868957fd0bf3d48c7114b75bb97233b",
+  "generated": "2026-06-15T19:59:28.463Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "1393687764",
-        "path": "src/content/posts/_draft-example.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-07-09",
-      "slug": "_draft-example",
-      "status": "published",
-      "title": "Draft Example"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "1903193438",
-        "path": "src/content/posts/KaTeX-example.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-05-19",
-      "slug": "KaTeX-example",
-      "status": "published",
-      "title": "KaTeX Examples"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "314409944",
-        "path": "src/content/posts/the-tr-808-story.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-05-10",
-      "slug": "the-tr-808-story",
-      "status": "published",
-      "title": "The TR-808 Story"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "2702189162",
-        "path": "src/content/posts/using-mdx.mdx"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-05-12",
-      "slug": "using-mdxx",
-      "status": "published",
-      "title": "Using MDX"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "3056813449",
-        "path": "src/content/posts/theme-guide.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-07-10",
-      "slug": "theme-guide",
-      "status": "published",
-      "title": "Theme Guide"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "2205603858",
-        "path": "src/content/posts/embedded-content.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-06-06",
-      "slug": "embedded-content",
-      "status": "published",
-      "title": "Embedded Content"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "1798438636",
-        "path": "src/content/posts/markdown-style-guide.md"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-06-28",
-      "slug": "markdown-style-guide",
-      "status": "published",
-      "title": "Markdown Style Guide"
-    },
-    {
-      "__outstatic": {
-        "commit": "aeafe65262926253564fdfd332dc3cfc852f8534",
-        "hash": "2889925074",
-        "path": "src/content/posts/my-things.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-04-28T21:09:34.533Z",
-      "slug": "my-things",
-      "status": "published",
-      "title": "My things"
-    },
-    {
-      "__outstatic": {
-        "commit": "8178963134e8dfd1689ebea50edf5d1d22fe5811",
-        "hash": "598393515",
-        "path": "src/content/posts/using-mdx.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2025-05-12T00:00:00.000Z",
-      "slug": "using-mdx",
-      "status": "published",
-      "title": "Using MDX"
-    },
     {
       "__outstatic": {
         "commit": "531d75716827a366fd7adb0a15571a27abcf7fb3",
@@ -133,22 +17,6 @@
       "slug": "my-new",
       "status": "draft",
       "title": "My new"
-    },
-    {
-      "__outstatic": {
-        "commit": "87452dc59317057aa8497894c01f5f252918d88c",
-        "hash": "1054556624",
-        "path": "src/content/posts/hey.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-05-11T11:06:15.721Z",
-      "slug": "hey",
-      "status": "draft",
-      "title": "Hey"
     }
   ]
 }
