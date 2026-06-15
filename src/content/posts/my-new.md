@@ -8,4 +8,4 @@ author:
 slug: my-new
 ---
 
-My new post
+ssMy new post

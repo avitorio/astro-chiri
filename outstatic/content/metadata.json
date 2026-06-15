@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Mon, 15 Jun 2026 19:05:52 GMT",
+  "commit": "5b8092ee10ab67919cc7db794dfa61fffe97b628",
+  "generated": "2026-06-15T19:20:36.620Z",
   "metadata": [
     {
       "__outstatic": {
@@ -85,22 +85,6 @@
     {
       "__outstatic": {
         "commit": "",
-        "hash": "521270988",
-        "path": "src/content/posts/my-new.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-06-13T17:48:23.879Z",
-      "slug": "my-new",
-      "status": "draft",
-      "title": "My new"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
         "hash": "2095189398",
         "path": "src/content/posts/the-tr-808-story.md"
       },
@@ -125,6 +109,22 @@
       "slug": "theme-guide",
       "status": "published",
       "title": "Theme Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "5b8092ee10ab67919cc7db794dfa61fffe97b628",
+        "hash": "924520129",
+        "path": "src/content/posts/my-new.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-06-13T17:48:23.879Z",
+      "slug": "my-new",
+      "status": "draft",
+      "title": "My new"
     }
   ]
 }
