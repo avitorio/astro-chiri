@@ -1,6 +1,6 @@
 {
-  "commit": "f7d2b76c689ba4ce83d98353a7ca20dab6377249",
-  "generated": "2026-06-15T19:05:17.384Z",
+  "commit": "",
+  "generated": "Mon, 15 Jun 2026 19:05:52 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,114 @@
       "slug": "about",
       "status": "draft",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2205603858",
+        "path": "src/content/posts/embedded-content.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-06-06",
+      "slug": "embedded-content",
+      "status": "published",
+      "title": "Embedded Content"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1393687764",
+        "path": "src/content/posts/_draft-example.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-07-09",
+      "slug": "_draft-example",
+      "status": "published",
+      "title": "Draft Example"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1903193438",
+        "path": "src/content/posts/KaTeX-example.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-19",
+      "slug": "KaTeX-example",
+      "status": "published",
+      "title": "KaTeX Examples"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2702189162",
+        "path": "src/content/posts/using-mdx.mdx"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-12",
+      "slug": "using-mdxx",
+      "status": "published",
+      "title": "Using MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1160951785",
+        "path": "src/content/posts/markdown-style-guide.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-06-28T00:00:00.000Z",
+      "slug": "markdown-style-guide",
+      "status": "published",
+      "title": "Markdown Style Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "521270988",
+        "path": "src/content/posts/my-new.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-06-13T17:48:23.879Z",
+      "slug": "my-new",
+      "status": "draft",
+      "title": "My new"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2095189398",
+        "path": "src/content/posts/the-tr-808-story.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-05-10T00:00:00.000Z",
+      "slug": "the-tr-808-story",
+      "status": "published",
+      "title": "The TR-808 Story"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3056813449",
+        "path": "src/content/posts/theme-guide.md"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-07-10",
+      "slug": "theme-guide",
+      "status": "published",
+      "title": "Theme Guide"
     }
   ]
 }
